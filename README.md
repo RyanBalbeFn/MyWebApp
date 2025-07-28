@@ -1,2 +1,2 @@
-# MyWebApp
-This project have the objective the show for user what hour and date is it
+# MyWebApp 
+Este projeto tem como objetivo mostrar detalhes para o usuário sobre data, hora e expandir minhas habilidades
