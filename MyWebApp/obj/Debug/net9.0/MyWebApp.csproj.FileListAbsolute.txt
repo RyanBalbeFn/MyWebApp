@@ -21,3 +21,4 @@ c:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp\obj\Debug\net9.0
 c:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp\obj\Debug\net9.0\MyWebApp.genruntimeconfig.cache
 c:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp\obj\Debug\net9.0\ref\MyWebApp.dll
 c:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp\obj\Debug\net9.0\MyWebApp.sourcelink.json

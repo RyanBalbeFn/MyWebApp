@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {}
+    "c:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {
+    "c:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "c:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "c:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\Ryanb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\obj\\",
+        "outputPath": "c:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
