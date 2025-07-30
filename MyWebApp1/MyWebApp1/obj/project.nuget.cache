@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/A8Yjl/yBM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VSC\\MyWebApp\\MyWebApp1\\MyWebApp1\\MyWebApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryanb\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.7\\microsoft.netcore.app.runtime.linux-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\Ryanb\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.7\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.7.nupkg.sha512",
+    "C:\\Users\\Ryanb\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.7\\microsoft.netcore.app.host.linux-x64.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\MyWebApp1.exe
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\appsettings.Development.json
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\appsettings.json
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\MyWebApp1.dll
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\MyWebApp1.deps.json
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\MyWebApp1.runtimeconfig.json
+C:\Users\Ryanb\Trabalho\Projetos\Projetos VSC\MyWebApp\MyWebApp1\publish-fd\MyWebApp1.pdb
